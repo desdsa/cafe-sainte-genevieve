@@ -1,0 +1,61 @@
+body {
+  font-family: Trebuchet MS, sans-serif;
+  font-weight: bold;
+  color: white;
+  margin: 2em;
+  background-color: #EFEEEA;
+}
+
+a{
+  color: white;
+}
+
+:required{
+	border: 3px solid #f9b820;
+	background-color: #F1F1F1;
+	border-radius: 15px;
+}
+
+.description{
+	font-size: 13px;
+}
+
+.formulaire{
+	margin-right: 10px;
+	text-align: center;
+}
+
+
+#inscription{
+	background-color: #1D3863;
+	border-radius: 20px;
+	border: 1px solid #1D3863;	
+}
+
+#envoyer{
+  font-family: Trebuchet MS, sans-serif;
+  font-weight: bold;
+	border-radius: 20px;
+	background-color: #f9b820;
+	border: 1px solid #f9b820;
+	width: 100px;
+	height: 30px;
+	}
+
+#connexion{
+	background-color: #FFFFFF;
+  text-align: center;
+	border-radius: 20px;
+	border: 2px solid #CCCCCC;
+	margin-top: 10px;
+  color: #1D3863;
+}
+
+.lien{
+  color: #1D3863;
+}
+
+:color_font_warn{
+  color: #FF0000;
+}
+:color_form_warn="#FFCC66";
